@@ -1,3 +1,3 @@
 # firstrepos-demo
-Its my first repository.<br>
+Its my first git repository.<br>
 Author-Aaradhana Samrawat
